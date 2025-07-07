@@ -29,4 +29,4 @@ Soy desarrollador desde 2024.
 + JavaScript
 + Git and GitHub
 
-># Y siempre con ganas de seguir aprendiendo.
+>## Y siempre con ganas de seguir aprendiendo.
