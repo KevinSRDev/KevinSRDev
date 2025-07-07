@@ -1,5 +1,7 @@
-## Hi there 👋
 
+## Hola, soy Kevin Romero 👋
+
+### Soy Desarrollador full-stack ✌️
 <!--
 **KevinSRDev/KevinSRDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Soy desarrollador desde 2024.
