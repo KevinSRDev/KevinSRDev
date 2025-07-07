@@ -30,5 +30,4 @@ Soy desarrollador desde 2024.
 + Git and GitHub
 <br/>
 
-> [!NOTE]
 >## Y siempre con ganas de seguir aprendiendo.
