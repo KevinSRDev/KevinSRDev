@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br/>
 
 Soy desarrollador desde 2024.
-Soy un desarrollador de software dedicado, trabajador y respetuoso, con una formación en conocimientos de bases de datos, SQL Server, C#, Git y GitHub, .NET, JavaScript, CSS y HTML. 
-Y siempre con ganas de seguir aprendiendo.
-
 ## 👾💻 Tecnologías
 + C#
 + .Net
@@ -30,3 +28,5 @@ Y siempre con ganas de seguir aprendiendo.
 + CSS
 + JavaScript
 + Git and GitHub
+
+>Y siempre con ganas de seguir aprendiendo.
