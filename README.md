@@ -1,5 +1,5 @@
 
-## Hola, soy Kevin Romero 👋
+# Hola, soy Kevin Romero 👋
 
 ### Soy Desarrollador full-stack ✌️
 <!--
@@ -19,3 +19,14 @@ Here are some ideas to get you started:
 
 
 Soy desarrollador desde 2024.
+Soy un desarrollador de software dedicado, trabajador y respetuoso, con una formación en conocimientos de bases de datos, SQL Server, C#, Git y GitHub, .NET, JavaScript, CSS y HTML. 
+Y siempre con ganas de seguir aprendiendo.
+
+## 👾💻 Tecnologías
++ C#
++ .Net
++ SQL Server
++ HTML
++ CSS
++ JavaScript
++ Git and GitHub
