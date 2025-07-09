@@ -1,7 +1,7 @@
 
 # Hola, soy Kevin Romero 👋
 
-<b>Soy Desarrollador full-stack desde 2024.✌️<b/>
+<b>Soy Desarrollador de Software desde 2024.✌️<b/>
 <!--
 **KevinSRDev/KevinSRDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
