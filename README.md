@@ -1,7 +1,7 @@
 
 # Hola, soy Kevin Romero 👋
 
-<b>Soy Desarrollador de Software desde 2024.✌️<b/>
+<b>Soy Desarrollador de Software | Desarrollador Web.✌️<b/>
 <!--
 **KevinSRDev/KevinSRDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 + CSS
 + JavaScript
 + Git and GitHub
++ Node.js
 <br/>
 
 >## Y siempre con ganas de seguir aprendiendo.
