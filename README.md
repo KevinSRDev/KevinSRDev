@@ -2,7 +2,8 @@
 # Hola, soy Kevin Romero 👋
 ![KEVINSRDEV](https://github.com/KevinSRDev/KevinSRDev/blob/main/KEVINSRDEV.png)
 
-# **Soy Desarrollador de Software | Desarrollador Web.**
+# **Soy Desarrollador de Software | Desarrollador Web**
+## **Analista y Desarrollador de Software** == FORMACIÖN
 <!--
 **KevinSRDev/KevinSRDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
