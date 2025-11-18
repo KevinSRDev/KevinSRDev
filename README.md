@@ -3,7 +3,7 @@
 ![KEVINSRDEV](https://github.com/KevinSRDev/KevinSRDev/blob/main/KEVINSRDEV.png)
 
 # **Soy Desarrollador de Software | Desarrollador Web**
-## **Analista y Desarrollador de Software** == FORMACIÖN
+## **Analista y Desarrollador de Software** == EN FORMACIÓN
 <!--
 **KevinSRDev/KevinSRDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 -->
   
 ## 👾💻 Tecnologías
-+ C#
++ C# (aprendiendo)
 + .Net
++ Java (aprendiendo)
 + SQL Server
++ MongoDB (aprendiendo)
 + HTML
 + CSS
 + JavaScript
