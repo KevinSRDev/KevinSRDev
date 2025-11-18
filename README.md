@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 + JavaScript
 + Git and GitHub
 + Node.js
++ React (aprendiendo)
 <br/>
 
 >## Y siempre con ganas de seguir aprendiendo.
