@@ -1,5 +1,7 @@
 
 # Hola, soy Kevin Romero 👋
+
+## [KevinSRDev - Git-Wrapped 2025](https://git-wrapped.com/profiles/KevinSRDev)
 ![KEVINSRDEV](https://github.com/KevinSRDev/KevinSRDev/blob/main/KEVINSRDEV.png)
 
 # **Soy Desarrollador de Software | Desarrollador Web**
