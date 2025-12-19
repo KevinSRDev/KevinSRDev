@@ -3,7 +3,7 @@
 ![KEVINSRDEV](https://github.com/KevinSRDev/KevinSRDev/blob/main/KEVINSRDEV.png)
 
 # **Soy Desarrollador de Software | Desarrollador Web**
-## **Analista y Desarrollador de Software** == EN FORMACIÓN
+# **Analista y Desarrollador de Software** == EN FORMACIÓN
 <!--
 **KevinSRDev/KevinSRDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,4 +33,7 @@ Here are some ideas to get you started:
 + React (aprendiendo)
 <br/>
 
->## Y siempre con ganas de seguir aprendiendo.
+## Sistemas Operativos
++ Linux - Ubuntu (aprendiendo)
+
+>## Y siempre con ganas de seguir explorando y aprendiendo nuevos conocimientos.
