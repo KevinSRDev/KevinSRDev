@@ -1,9 +1,7 @@
-## **Hi, I'm Kevin Romero 👋**
-![KEVINSRDEV](https://github.com/KevinSRDev/KevinSRDev/blob/main/KEVINSRDEV.png)
-
-- ## **I'm Software Developer | Web Developer**
--  ## **Software Analyst and Developer == IN TRAINING**
--  #### [KevinSRDev - Git-Wrapped 2025](https://git-wrapped.com/profiles/KevinSRDev)
+# **Hi, I'm Kevin Romero 👋**
+## **I'm Software Developer | Web Developer**
+## **Software Analyst and Developer == IN TRAINING**
+#### [KevinSRDev - Git-Wrapped 2025](https://git-wrapped.com/profiles/KevinSRDev)
 
 <!--
 **KevinSRDev/KevinSRDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,12 +42,10 @@ Here are some ideas to get you started:
 <hr/>
 <br/>
 
-## **Hola, soy Kevin Romero 👋**
-![KEVINSRDEV](https://github.com/KevinSRDev/KevinSRDev/blob/main/KEVINSRDEV.png)
-
-- ## **Soy Desarrollador de Software | Desarrollador Web**
--  ## **Analista y Desarrollador de Software == EN FORMACIÓN**
--  #### [KevinSRDev - Git-Wrapped 2025](https://git-wrapped.com/profiles/KevinSRDev)
+# **Hola, soy Kevin Romero 👋**
+## **Soy Desarrollador de Software | Desarrollador Web**
+## **Analista y Desarrollador de Software == EN FORMACIÓN**
+#### [KevinSRDev - Git-Wrapped 2025](https://git-wrapped.com/profiles/KevinSRDev)
 
   
 ## 👾💻 Tecnologías
