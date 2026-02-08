@@ -1,6 +1,6 @@
 # **Hi, I'm Kevin Romero 👋**
-## **I'm Software Developer | Web Developer**
-## **Software Analyst and Developer == IN TRAINING**
+- ## **I'm Software Developer | Web Developer**
+- ## **Software Analyst and Developer == IN TRAINING**
 #### [KevinSRDev - Git-Wrapped 2025](https://git-wrapped.com/profiles/KevinSRDev)
 
 <!--
@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 -->
   
 ## 👾💻 Technologies
-+ C# (learning)
-+ .Net
-+ Java (learning)
-+ SQL Server
-+ MongoDB (learning)
-+ HTML
-+ CSS
-+ JavaScript
-+ Git and GitHub
-+ Node.js
-+ React (learning)
+  + C# (learning)
+  + .Net
+  + Java (learning)
+  + SQL Server
+  + MongoDB (learning)
+  + HTML
+  + CSS
+  + JavaScript
+  + Git and GitHub
+  + Node.js
+  + React (learning)
 <br/>
 
 ## Operating Systems
@@ -43,23 +43,23 @@ Here are some ideas to get you started:
 <br/>
 
 # **Hola, soy Kevin Romero 👋**
-## **Soy Desarrollador de Software | Desarrollador Web**
-## **Analista y Desarrollador de Software == EN FORMACIÓN**
+- ## **Soy Desarrollador de Software | Desarrollador Web**
+- ## **Analista y Desarrollador de Software == EN FORMACIÓN**
 #### [KevinSRDev - Git-Wrapped 2025](https://git-wrapped.com/profiles/KevinSRDev)
 
   
 ## 👾💻 Tecnologías
-+ C# (aprendiendo)
-+ .Net
-+ Java (aprendiendo)
-+ SQL Server
-+ MongoDB (aprendiendo)
-+ HTML
-+ CSS
-+ JavaScript
-+ Git and GitHub
-+ Node.js
-+ React (aprendiendo)
+  + C# (aprendiendo)
+  + .Net
+  + Java (aprendiendo)
+  + SQL Server
+  + MongoDB (aprendiendo)
+  + HTML
+  + CSS
+  + JavaScript
+  + Git and GitHub
+  + Node.js
+  + React (aprendiendo)
 <br/>
 
 ## Sistemas Operativos
