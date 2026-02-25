@@ -1,5 +1,5 @@
 # **Hi, I'm Kevin Romero 👋**
-- ## **I'm Software Developer | Web Developer**
+- ## **I'm Software Developer**
 - ## **Software Analyst and Developer == IN TRAINING**
 #### [KevinSRDev - Git-Wrapped 2025](https://git-wrapped.com/profiles/KevinSRDev)
 
@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 -->
   
 ## 👾💻 Technologies
-  + C# (learning)
-  + .Net
-  + Java (learning)
+  + C# (basic)
   + SQL Server
   + MongoDB (learning)
   + HTML
@@ -34,7 +32,7 @@ Here are some ideas to get you started:
 
 ## Operating Systems
 1. Windows
-2. Linux - Ubuntu (learning)
+2. Linux - Ubuntu, Pop OS (learning)
 3. macOS (basic knowledge)
 
 >## And always eager to continue exploring and learning new knowledge.
@@ -43,15 +41,13 @@ Here are some ideas to get you started:
 <br/>
 
 # **Hola, soy Kevin Romero 👋**
-- ## **Soy Desarrollador de Software | Desarrollador Web**
+- ## **Soy Desarrollador de Software**
 - ## **Analista y Desarrollador de Software == EN FORMACIÓN**
 #### [KevinSRDev - Git-Wrapped 2025](https://git-wrapped.com/profiles/KevinSRDev)
 
   
 ## 👾💻 Tecnologías
-  + C# (aprendiendo)
-  + .Net
-  + Java (aprendiendo)
+  + C# (basico)
   + SQL Server
   + MongoDB (aprendiendo)
   + HTML
@@ -64,7 +60,7 @@ Here are some ideas to get you started:
 
 ## Sistemas Operativos
 1. Windows
-2. Linux - Ubuntu (aprendiendo)
+2. Linux - Ubuntu, Pop OS (aprendiendo)
 3. macOS (conocimientos basicos)
 
 >## Y siempre con ganas de seguir explorando y aprendiendo nuevos conocimientos.
