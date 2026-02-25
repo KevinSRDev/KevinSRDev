@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Languages
- * Español - Native
+ * Spanish - Native
  * English - Basic(learning)
   
 ## 👾💻 Technologies
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ## Idiomas
  * Español - Nativo
- * English - Basic(aprendiendo)
+ * Inglés - Basico(aprendiendo)
    
 ## 👾💻 Tecnologías
 * **Front-end**
