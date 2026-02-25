@@ -19,23 +19,34 @@ Here are some ideas to get you started:
 -->
   
 ## 👾💻 Technologies
-  + C# (basic)
-  + SQL Server
-  + MongoDB (learning)
+* **Front-end**
   + HTML
   + CSS
   + JavaScript
-  + Git and GitHub
-  + Node.js
   + React (learning)
+* **Back-end**
+  + Node.js
+  + C# (basic)
+  + SQL
+    + SQL Server
+  + NoSQL
+    + MongoDB(learning)
+* **Version control**
+  + Git and GitHub
+* Cloud
+  + AWS
+    + EC2
 <br/>
 
 ## Operating Systems
-1. Windows
-2. Linux - Ubuntu, Pop OS (learning)
-3. macOS (basic knowledge)
+  1. Windows
+  2. Linux
+     1. Ubuntu (learning)
+     2. Pop OS (learning)
+  4. macOS (basic knowledge)
 
->## And always eager to continue exploring and learning new knowledge.
+>[!NOTE]
+> And always eager to continue exploring and learning new knowledge.
 
 <hr/>
 <br/>
@@ -47,22 +58,33 @@ Here are some ideas to get you started:
 
   
 ## 👾💻 Tecnologías
-  + C# (basico)
-  + SQL Server
-  + MongoDB (aprendiendo)
+* **Front-end**
   + HTML
   + CSS
   + JavaScript
-  + Git and GitHub
-  + Node.js
   + React (aprendiendo)
+* **Back-end**
+  + Node.js
+  + C# (basic)
+  + SQL
+    + SQL Server
+  + NoSQL
+    + MongoDB(aprendiendo)
+* **Control de Versiones**
+  + Git and GitHub
+* Cloud
+  + AWS
+    + EC2
 <br/>
 
 ## Sistemas Operativos
 1. Windows
-2. Linux - Ubuntu, Pop OS (aprendiendo)
-3. macOS (conocimientos basicos)
+2. Linux
+   1. Ubuntu (aprendiendo)
+   2. Pop OS (aprendiendo)
+4. macOS (conocimientos basicos)
 
->## Y siempre con ganas de seguir explorando y aprendiendo nuevos conocimientos.
+>[!NOTE]
+> Y siempre con ganas de seguir explorando y aprendiendo nuevos conocimientos.
 
 <hr/>
