@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Languages
+ * Español - Native
+ * English - Basic(learning)
   
 ## 👾💻 Technologies
 * **Front-end**
@@ -25,7 +28,7 @@ Here are some ideas to get you started:
   + JavaScript
   + React (learning)
 * **Back-end**
-  + Node.js
+  + Node.js (learning)
   + C# (basic)
   + SQL
     + SQL Server
@@ -58,7 +61,10 @@ Here are some ideas to get you started:
 - ## **Analista y Desarrollador de Software == EN FORMACIÓN**
 #### [KevinSRDev - Git-Wrapped 2025](https://git-wrapped.com/profiles/KevinSRDev)
 
-  
+## Idiomas
+ * Español - Nativo
+ * English - Basic(aprendiendo)
+   
 ## 👾💻 Tecnologías
 * **Front-end**
   + HTML
@@ -66,7 +72,7 @@ Here are some ideas to get you started:
   + JavaScript
   + React (aprendiendo)
 * **Back-end**
-  + Node.js
+  + Node.js (aprendiendo)
   + C# (basic)
   + SQL
     + SQL Server
@@ -74,12 +80,11 @@ Here are some ideas to get you started:
     + MongoDB(aprendiendo)
 * **Control de Versiones**
   + Git and GitHub
-* Cloud
+* **Cloud**
   + AWS
     + EC2
 ## Otros Estudios
  * **Cybersecurity (learning) - CISCO**
-<hr/>
 
 ## Sistemas Operativos
 1. Windows
