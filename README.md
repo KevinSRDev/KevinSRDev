@@ -33,10 +33,12 @@ Here are some ideas to get you started:
     + MongoDB(learning)
 * **Version control**
   + Git and GitHub
-* Cloud
+* **Cloud**
   + AWS
     + EC2
-<br/>
+
+## Other Studies
+ * **Cybersecurity (learning) - CISCO**
 
 ## Operating Systems
   1. Windows
@@ -75,7 +77,9 @@ Here are some ideas to get you started:
 * Cloud
   + AWS
     + EC2
-<br/>
+## Otros Estudios
+ * **Cybersecurity (learning) - CISCO**
+<hr/>
 
 ## Sistemas Operativos
 1. Windows
