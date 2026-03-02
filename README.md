@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 * **Front-end**
   + HTML
   + CSS
-  + JavaScript
+  + JavaScript (strengthening knowledge)
   + React (learning)
 * **Back-end**
   + Node.js (learning)
   + C# (basic)
+  + .NET (basic)
   + SQL
     + SQL Server
   + NoSQL
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
     + EC2
 
 ## Other Studies
- * **Cybersecurity (learning) - CISCO**
+ * **Cybersecurity (learning) - Cisco Networking Academy**
 
 ## Operating Systems
   1. Windows
@@ -69,11 +70,12 @@ Here are some ideas to get you started:
 * **Front-end**
   + HTML
   + CSS
-  + JavaScript
+  + JavaScript (fortaleciendo conocimientos)
   + React (aprendiendo)
 * **Back-end**
   + Node.js (aprendiendo)
-  + C# (basic)
+  + C# (basico)
+  + .NET (basic)
   + SQL
     + SQL Server
   + NoSQL
@@ -84,7 +86,7 @@ Here are some ideas to get you started:
   + AWS
     + EC2
 ## Otros Estudios
- * **Cybersecurity (learning) - CISCO**
+ * **Cybersecurity (learning) - Cisco Networking Academy**
 
 ## Sistemas Operativos
 1. Windows
