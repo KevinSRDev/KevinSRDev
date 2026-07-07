@@ -3,9 +3,9 @@
 -->
 
 
-# **Hola, soy Kevin Romero 👋 **
+# **Hola, soy Kevin Romero 👋**
+![Banner de Informacion](/src/img/Banner_Dev_Github.png)
 
-## **Analista y Desarrollador de Software | EN FORMACIÓN**
 ### *[KevinSRDev - Git-Wrapped 2025](https://git-wrapped.com/profiles/KevinSRDev)*
 
 ## Idiomas
