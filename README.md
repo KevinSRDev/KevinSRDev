@@ -8,7 +8,7 @@
 
 <div align="center">
   
-![Contributions](https://github.pumbas.net/api/contributions/KevinSRDev?colour=17E3BE&bgColour=0D0F13)
+![Contributions](https://github.pumbas.net/api/contributions/KevinSRDev?colour=17E3BE)
 
 </div>
 
@@ -54,8 +54,8 @@
 
 <div align="center">
 
-![Correo | Gmail](https://img.shields.io/badge/gmail%20-%20correo?style=for-the-badge&color=%23EA4335)
-![Portafolio](https://img.shields.io/badge/Portafolio%20-%20learning?style=for-the-badge&logoColor=white&color=%2310B981)
-![Linkedin](https://img.shields.io/badge/linkedin%20-%20work?style=for-the-badge&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F)
+[![Correo | Gmail](https://img.shields.io/badge/gmail%20-%20correo?style=for-the-badge&color=%23EA4335)](mailto:kevin.santiromero.15@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio%20-%20learning?style=for-the-badge&logoColor=white&color=%2310B981)](https://portafoliokevinsrdev.vercel.app/)
+[![Linkedin](https://img.shields.io/badge/linkedin%20-%20work?style=for-the-badge&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F)](https://www.linkedin.com/feed/)
   
 </div>
