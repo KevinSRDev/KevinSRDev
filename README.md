@@ -6,7 +6,10 @@
 # **Hola, soy Kevin Romero 👋**
 ![Banner de Informacion](/src/img/Banner_Dev_Github.png)
 
+![Contributions](https://github.pumbas.net/api/contributions/kevinsrdev?colour=17E3BE&bgColour=0D0F13)
+
 ### *[KevinSRDev - Git-Wrapped 2025](https://git-wrapped.com/profiles/KevinSRDev)*
+
 
 ## Idiomas
  * Español - Nativo
@@ -14,46 +17,30 @@
 
 
 ## 👾💻 Stack 
-🖌️ **Front-end**
-```md 
-  * HTML
-  * CSS
-  * JavaScript (fortaleciendo conocimientos)
-  * React (aprendiendo)
-```
+**Front-end 🖌️**
 
-**Back-end**
-```md
-  + Node.js (aprendiendo)
-  + C# (basico)
-  + .NET (basic)
-  + SQL
-    - SQL Server
-    - MySQL
-  + NoSQL
-    + MongoDB(aprendiendo)
-```
+![My Skills](https://skillicons.dev/icons?i=react,js,html,css)
 
-🗄️ **Control de Versiones**
-```md
-  Git and GitHub
-```
+**Backend**
+
+![My Skills](https://skillicons.dev/icons?i=java,net,nodejs,mongodb,mysql,sqlserver)
+
+**Control de Versiones 🗄️**
+
+![My Skills](https://skillicons.dev/icons?i=git,github)
+
 
 ☁️ **Cloud**
-```md
-  + AWS
-    - EC2
-```
+
+![My Skills](https://skillicons.dev/icons?i=aws,ec2)
 
 ## Otros Estudios
- * **Cybersecurity (learning) - Cisco Networking Academy**
+**Cybersecurity** (learning) - Cisco Networking Academy
 
 ## 🖥️ Sistemas Operativos
-1. Windows
-2. Linux
-   1. Ubuntu (aprendiendo)
-   2. CachyOs (aprendiendo)
-4. macOS (conocimientos basicos)
+
+![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,windows)
+
 
 > [!NOTE]
 > Y siempre con ganas de seguir explorando y aprendiendo nuevos conocimientos.
