@@ -20,7 +20,7 @@
 
 🇺🇸 🇬🇧 Inglés - Aprendiendo
 
-## 👾💻 Stack 
+## Stack 👾💻 
 **Front-end 🖌️**
 
 ![My Skills](https://skillicons.dev/icons?i=react,js,html,css)
@@ -38,10 +38,14 @@
 
 ![My Skills](https://skillicons.dev/icons?i=aws)
 
+**Otras herramientas**
+
+![My Skills](https://skillicons.dev/icons?i=figma,postman,vercel,vscode,idea,docker)
+
 ## Otros Estudios
  **Cybersecurity (learning)** - Cisco Networking Academy
 
-## 🖥️ Sistemas Operativos
+## Sistemas Operativos 🖥️
 
 ![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch)
 
