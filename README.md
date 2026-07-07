@@ -6,15 +6,19 @@
 # **Hola, soy Kevin Romero 👋**
 ![Banner de Informacion](/src/img/Banner_Dev_Github.png)
 
-![Contributions](https://github.pumbas.net/api/contributions/kevinsrdev?colour=17E3BE&bgColour=0D0F13)
+<div align="center">
+  
+![Contributions](https://github.pumbas.net/api/contributions/KevinSRDev?colour=17E3BE&bgColour=0D0F13)
+
+</div>
 
 ### *[KevinSRDev - Git-Wrapped 2025](https://git-wrapped.com/profiles/KevinSRDev)*
 
 
-## Idiomas
- * Español - Nativo
- * Inglés - Basico(aprendiendo)
+## Idiomas 📚🗺️
+🇨🇴 Español - Nativo
 
+🇺🇸 🇬🇧 Inglés - Aprendiendo
 
 ## 👾💻 Stack 
 **Front-end 🖌️**
@@ -23,26 +27,35 @@
 
 **Backend**
 
-![My Skills](https://skillicons.dev/icons?i=java,net,nodejs,mongodb,mysql,sqlserver)
+![My Skills](https://skillicons.dev/icons?i=java,net,nodejs,mongodb,mysql)
 
 **Control de Versiones 🗄️**
 
 ![My Skills](https://skillicons.dev/icons?i=git,github)
 
 
-☁️ **Cloud**
+**Cloud ☁️**
 
-![My Skills](https://skillicons.dev/icons?i=aws,ec2)
+![My Skills](https://skillicons.dev/icons?i=aws)
 
 ## Otros Estudios
-**Cybersecurity** (learning) - Cisco Networking Academy
+ **Cybersecurity (learning)** - Cisco Networking Academy
 
 ## 🖥️ Sistemas Operativos
 
-![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,windows)
+![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch)
 
+![My Skills](https://skillicons.dev/icons?i=windows)
 
 > [!NOTE]
 > Y siempre con ganas de seguir explorando y aprendiendo nuevos conocimientos.
 
 <hr/>
+
+<div align="center">
+
+![Correo | Gmail](https://img.shields.io/badge/gmail%20-%20correo?style=for-the-badge&color=%23EA4335)
+![Portafolio](https://img.shields.io/badge/Portafolio%20-%20learning?style=for-the-badge&logoColor=white&color=%2310B981)
+![Linkedin](https://img.shields.io/badge/linkedin%20-%20work?style=for-the-badge&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F)
+  
+</div>
